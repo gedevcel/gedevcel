@@ -8,7 +8,7 @@
 </p>
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedevcel&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/umigam3">
+[//]: # [<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedevcel&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/umigam3">](url)
 
 - 🔭 I’m currently working as a **Software Developer**
 
